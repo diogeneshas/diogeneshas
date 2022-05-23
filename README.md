@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Tentando ser programador em RoR e VUEJS.
-- 💼 &nbsp; Atualmente trabalho em uma empresa como gerente de infraestrutura
+- 💼 &nbsp; Atualmente trabalho em uma empresa como desenvolvedor Jr FullStack (Rails + VueJS)
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript - Ruby**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -17,7 +17,6 @@
   ![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **DevOps**
 
