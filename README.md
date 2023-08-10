@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Tentando ser programador em RoR e VUEJS.
+- 🤔 &nbsp; Programador RoR - VUEJS - NuxtJS.
 - 💼 &nbsp; Atualmente trabalho em uma empresa como desenvolvedor Jr FullStack (Rails + VueJS)
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript - Ruby**.
 
