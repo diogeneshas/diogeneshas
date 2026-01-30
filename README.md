@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Programador RoR - VUEJS - NuxtJS.
-- 💼 &nbsp; Atualmente trabalho em uma empresa como desenvolvedor Jr FullStack (Rails + VueJS)
+- 💼 &nbsp; Atualmente trabalho em uma empresa como desenvolvedor Pleno FullStack (Rails + React)
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript - Ruby**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
